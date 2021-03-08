@@ -15,7 +15,7 @@ Substrate被设想为下一代区块链开发基础框架，主要提供以下�
 
 Polkadot网络主要包含：中继链（Relay Chain）、平行链 （Parachains）、桥接（Bridges）、验证人（Validators）、收集人（Collators）、钓鱼人（Fishermen）
 
-![polkadot network](wiki.polkadot.network/docs/assets/polkadot_relay_chain.png)
+![polkadot network](http://wiki.polkadot.network/docs/assets/polkadot_relay_chain.png)
 
 - 中继链（Relay Chain）
 
